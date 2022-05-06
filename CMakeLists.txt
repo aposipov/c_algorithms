@@ -4,4 +4,6 @@ project(c_algorithms C)
 set(CMAKE_C_STANDARD 99)
 
 add_executable(c_algorithms
-        bubble_sorting.c)
+        #bubble_sorting.c
+		#insertion_sort.c
+		main.c)
